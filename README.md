@@ -6,5 +6,5 @@
 只有私钥可以解开。  
 本程序用于教学使用，严禁违法使用，后果自负。  
 编译后，使用upx压缩只有2.多M
-![image text](https://raw.githubusercontent.com/flydyyg/lesuo/refs/heads/main/test.png)
+![image text](https://raw.githubusercontent.com/dajibaxiao/lesuo/refs/heads/main/test.png)
 
